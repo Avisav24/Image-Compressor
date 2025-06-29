@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖼️ Image Compressor
 
 A simple and efficient Python tool to compress your images using [Pillow](https://python-pillow.org/).  
@@ -65,3 +66,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Image-Compressor
+>>>>>>> e92c65e27f838afe84f10c04168edff3932d6791
