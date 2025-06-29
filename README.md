@@ -1,6 +1,6 @@
 # 🖼️ Image Compressor
 
-A simple and efficient Python tool to compress your images using [Pillow](https://python-pillow.org/).  
+A simple and efficient Python tool to compress your images using [Pillow](https://pypi.org/project/pillow/).  
 **Reduce file size, save storage, and keep your images looking great!**
 
 ---
