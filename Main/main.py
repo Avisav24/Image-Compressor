@@ -10,7 +10,6 @@ def compress_image(input_path, output_path, quality=85):
         quality (int): Compression quality (0-100). Higher is better quality, larger file size.
     """
     try:
-        
         with Image.open(input_path) as img:
             img.save(output_path, "JPEG", quality=quality)
         print(f"Image compressed successfully: {input_path} -> {output_path}")
