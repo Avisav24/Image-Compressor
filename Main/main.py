@@ -19,6 +19,6 @@ def compress_image(input_path, output_path, quality=85):
         print(f"An error occurred during compression: {e}")
 
 if __name__ == "__main__":
-    input_image_file = r"D:\My photo\passport.jpg"
+    input_image_file = r"Enter_photo_path_here"
     output_compressed_file = r"D:\My photo\Passport photo.jpg"
     compress_image(input_image_file, output_compressed_file, quality=62)
