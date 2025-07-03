@@ -20,5 +20,5 @@ def compress_image(input_path, output_path, quality=85):
 
 if __name__ == "__main__":
     input_image_file = r"Enter_photo_path_here"
-    output_compressed_file = r"D:\My photo\Passport photo.jpg"
+    output_compressed_file = r"Enter_your_destination enter_the_name_of_file.jpg"
     compress_image(input_image_file, output_compressed_file, quality=62)
