@@ -3,6 +3,7 @@ from PIL import Image
 def compress_image(input_path, output_path, quality=85):
     """
     Compress an image using Pillow.
+    
      Args:
         input_path (str): Path to the input image file.
         output_path (str): Path to save the compressed image file.
