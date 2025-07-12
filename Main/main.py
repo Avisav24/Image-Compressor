@@ -3,8 +3,7 @@ from PIL import Image
 def compress_image(input_path, output_path, quality=85):
     """
     Compress an image using Pillow.
-
-    Args:
+     Args:
         input_path (str): Path to the input image file.
         output_path (str): Path to save the compressed image file.
         quality (int): Compression quality (0-100). Higher is better quality, larger file size.
