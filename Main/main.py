@@ -8,6 +8,7 @@ def compress_image(input_path, output_path, quality=85):
         input_path (str): Path to the input image file.
         output_path (str): Path to save the compressed image file.
         quality (int): Compression quality (0-100). Higher is better quality, larger file size.
+        
     """
     try:
         with Image.open(input_path) as img:
